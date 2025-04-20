@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Supabase Auth Sample</string>
+    <string name="supabase_url" translatable="false">SUPABASE_URL_PLACEHOLDER</string>
+    <string name="supabase_anon_key" translatable="false">SUPABASE_ANON_KEY_PLACEHOLDER</string>
+</resources>
